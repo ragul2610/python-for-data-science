@@ -1,0 +1,12 @@
+                                             Brazil housing EDA
+
+1. Perform exploratory data analysis (EDA) on Brazilian housing data to uncover key insights and patterns.
+2. Identify and visualize the distribution of housing prices across different regions in Brazil.
+3. Explore the relationship between housing prices and key features such as square footage, number of bedrooms, and amenities.
+4. Investigate potential outliers and anomalies in the dataset that may impact analysis. 
+5. Assess the correlation between housing prices and socio-economic indicators for a comprehensive understanding.
+6. Create insightful visualizations, such as scatter plots and heatmaps, to highlight trends and patterns.
+7. Impute or handle missing data appropriately to ensure the robustness of the analysis. 
+8. Conduct statistical tests to validate hypotheses about factors influencing housing prices.
+9. Provide a summary of key findings and recommendations for stakeholders based on the EDA results.
+10. Document the EDA process and code for reproducibility and future reference.

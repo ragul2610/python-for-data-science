@@ -1,0 +1,12 @@
+                                        Bank loan EDA
+
+1. Conduct exploratory data analysis (EDA) on a dataset of bank loan information to gain insights into lending patterns.
+2. Analyze the distribution of loan amounts and interest rates to understand the range and variability.
+3. Investigate the correlation between loan approval status and key features such as credit score, income, and employment status. 
+4. Identify any significant outliers or anomalies that may impact the accuracy of loan risk assessments.
+5. Explore the temporal trends in loan approvals and denials to uncover patterns over time.
+6. Visualize the demographic distribution of borrowers to understand the target customer profile.
+7. Assess the impact of categorical variables like loan purpose on approval rates through graphical representations.
+8. Handle missing data appropriately to ensure the reliability of the analysis.
+9. Utilize statistical tests to validate hypotheses related to factors influencing loan approval.
+10. Summarize key findings and provide actionable insights for informed decision-making in the lending process.
